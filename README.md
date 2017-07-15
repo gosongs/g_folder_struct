@@ -6,7 +6,7 @@
 3. 在根目录会生成一个 `menu_struct.md` 的文件;
 
 ### 注意
-在 `IGNORES` 这个变量存储被忽略的文件夹, 比如: `.git`、`node_modules`, 这些文件夹里的文件是不需要解析的.
+在 `IGNORES` 这个变量存储被忽略的文件夹, 比如: `.git`、`node_modules`, 这些文件夹里的文件应该被忽略.
 
 mac 使用无误, windows/linux 没有测试.
 
