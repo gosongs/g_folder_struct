@@ -50,7 +50,7 @@ def each_file(path, time):
 
 def write_md(output):
     f = open('menu_struct.md', 'w')
-    f.write('```bash\n')
+    f.write('```\n')
     f.write(output)
     f.write('```\n')
     f.close()
