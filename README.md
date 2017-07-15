@@ -15,7 +15,7 @@ mac 使用无误, windows/linux 没有测试.
 ![](http://onqlql2jb.bkt.clouddn.com/menu_struct1.png)
 
 生成的文件结构如下:
-```bash
+```
 ├──.babelrc # babel 配置
 ├──.git # git 生成的
 ├──.gitignore # git 忽略文件
